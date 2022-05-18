@@ -48,7 +48,7 @@ C4                   |   "8"         | 49.0        |  USD     | 2022-04-04      
 
 **Results Images**
 
-have been placed at src/main/resources/images directory
+https://github.com/kkerry0911/Customer-Reward-Points/blob/033189a76c78cbe1b94906716e74d08fbc99054c/src/main/resources/Images/IMG_20220518_085933741.jpg
 
 
 
